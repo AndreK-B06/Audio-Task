@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  display: flex;
+  background-color: #262342;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+#soundebord {
+  margin-top: 50px;
+  border: solid #c5b9ba;
+  border-radius: 30px;
+  padding: 100px;
+  background-color: #f7ebec;
+}
+button {
+  margin-inline: 10px;
+  border: none;
+  border-radius: 30px;
+  background-color: #58355e;
+  color: #ddbdd5;
+  font-size: 16px;
+  padding: 10px;
+}
+aside1 {
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  color: #f7ebec;
+  padding: 10px;
+}
